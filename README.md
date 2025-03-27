@@ -1,4 +1,6 @@
 # Projektoppgave---innleverng-nr.-3
+
+## Jeg har laget en oppgave basert på de vedlegga som er tilgjengelig i oppgaven. Takk for utfordringen. Håper dere blir fornøyd!
 Python - Valgt å løse den ferdigdefinerte oppgaven trenger du i tillegg denne Excel
 
 
